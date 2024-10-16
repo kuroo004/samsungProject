@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main() {
+int a=10;
   
     // Printing your name "Rahul" on the output screen
     printf("Rahul");
